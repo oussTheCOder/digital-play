@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /channels-list
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.digital-iptv.tech/sitemap.xml
