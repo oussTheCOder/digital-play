@@ -1,5 +1,5 @@
 import brainwave from "./brainwave.svg";
-import sportSectionImg from "./sport-section.webp"
+import sportSectionImg from "./seo-section.jpg"
 import compatibilityImg from './compatibility.webp'
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";

@@ -31,7 +31,7 @@ const Header = () => {
         }`}>
             <div className='flex items-center  px-5 lg:px-7.5 xl:px-10 max-lg:py-4'>
                 <a className='block w-[12rem] xl:mr-8' href="/">
-                    <span className='text-2xl text-slate-500 w-36 h-24'>Digital Iptv</span>
+                    <span className='text-2xl text-slate-500 w-36 h-24'>Digital Play</span>
                 </a>
                 <nav className={`${
             openNavigation ? "flex" : "hidden"

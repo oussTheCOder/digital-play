@@ -36,7 +36,7 @@ const Services = () => {
                 width={800}
                 alt="Family Watch: Der beste IPTV Anbieter in Deutschland"
                 height={730}
-                src='/assets/free-family.webp'
+                src='/assets/se.jpg'
               />
                <div className="absolute top-0 left-0 w-full h-full bg-black opacity-80 lg:opacity-60 xl:opacity-50  "></div>
             </div>

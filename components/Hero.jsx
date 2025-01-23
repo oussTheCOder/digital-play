@@ -54,12 +54,6 @@ const Hero = () => {
               />
             </div> */}
             <BackgroundCircles />
-          <div className='mb-6'>
-            <SwiperMovies />
-          </div>
-          <div className='mb-2'>
-            <SwiperSeries />
-          </div>
           </div>
           {/* <ChannelsLogos className="relative z-10 mt-20" /> */}
         </div>

@@ -37,19 +37,20 @@ const contactItems = t("footer-contact",{returnObjects:true});
             <a
                 href={t("whatsApp-link")}
                 target='_blank'
-              className=" text-xs text-slate-300  justify-center"
+              className=" text-xs text-slate-300 inline-block  justify-center"
             >
               Whatsapp
             </a>
             </li>
-            <li
-            key='1'>
+
+            <li key='1'> 
             <a
-                href={`mailto:${process.env.NEXT_PUBLIC_EMAIL_ADDRESS}`}
-                target='_blank'
-              className=" text-xs text-slate-300  justify-center"
+            target='_blank'
+             className=" text-xs text-slate-300  justify-center"
             >
-              {process.env.NEXT_PUBLIC_EMAIL_ADDRESS}
+             
+            
+              ouss.coder92@gmail.com
             </a>
             </li>
           </ul>

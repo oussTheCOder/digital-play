@@ -1,15 +1,15 @@
   {   
     
   "meta-data": {
-    "title": "IPTV Germany , Buy Iptv with digital iptv provider",
-    "description": "Buy Iptv Germany ? digital iptv provider is the king , Starts with 14.99€, access +24.000 channels and 160.000 movies and series with 24/7 support"
+    "title": "Digital Play: Your Partner in SEO Success",
+    "description": "At Digital Play, we craft customized SEO strategies to boost your online visibility, drive organic traffic, and grow your business. Let’s play to win together!"
   },
-    "hero-heading":"Digital IPTV - Your Premier IPTV Provider in Germany",
-    "hero-sub-heading":"Buy Iptv Germany ? digital iptv provider is the king , Starts with 14.99€, access +24.000 channels and 160.000 movies and series with 24/7 support",
-    "button-buy":"Buy IPTV",
+    "hero-heading":"Digital Play: Your Partner in SEO Success",
+    "hero-sub-heading":"At Digital Play, we craft customized SEO strategies to boost your online visibility, drive organic traffic, and grow your business. Let’s play to win together!",
+    "button-buy":"Buy Now",
     "button-buy-now": "Buy Now",
-    "trial-btn":"Free Trial",
-    "whatsApp-link-trial":"https://wa.me/19295664890?text=Hello%20Digital%20IPTV%20TECH%2C%20Could%20you%20provide%20me%20with%20Trial%20test%20%3F",
+    "trial-btn":"Contact Us",
+    "whatsApp-link-trial":"https://wa.me/19295664890?text=Hello%20Digital%20%20play%2C%20Could%20you%20provide%20me%20with%20Trial%20test%20%3F",
     "whatsApp-link":"https://wa.me/+19295664890",
     "sports-img":[
       {
@@ -105,43 +105,43 @@
         "logo":"/assets/channels/intern/hulu.webp"
       }
     ],
-    "services-heading":"The best iptv provider in germany",
-    "services-sub-heading":"Enjoy uninterrupted, high-quality streaming with 24/7 support",
+    "services-heading":"The best seo solutions in Belgium",
+    "services-sub-heading":"High-quality Backlinks with 24/7 support",
     "services-mainDiv-list":[
       {
           "id": "0",
           "checkImg": "/assets/check.svg",
-          "listItem": "Unlock All Channels"
+          "listItem": "Rank Tracker"
       },
       {
           "id": "1",
           "checkImg": "/assets/check.svg",
-          "listItem": "+24,000 Channels and +160,000 Movies and Series"
+          "listItem": "On-demand keyword"
       },
       {
           "id": "2",
           "checkImg": "/assets/check.svg",
-          "listItem": "All Sports Channels Available"
+          "listItem": "Keyword Research"
       },
       {
           "id": "3",
           "checkImg": "/assets/check.svg",
-          "listItem": "Weekly Updated Movie/Series Library"
+          "listItem": "Organic Traffic"
       },
       {
           "id": "4",
           "checkImg": "/assets/check.svg",
-          "listItem": "Compatible with All Devices and Platforms"
+          "listItem": "Content Audit"
       },
       {
           "id": "5",
           "checkImg": "/assets/check.svg",
-          "listItem": "4K, HD, FHD, HEVC Quality"
+          "listItem": "Access to our SEO database"
       },
       {
           "id": "6",
           "checkImg": "/assets/check.svg",
-          "listItem": "Fast and Stable Server"
+          "listItem": "Access to our SEO tools"
       },
       {
           "id": "7",
@@ -155,15 +155,15 @@
         {
             "id": "0",
             "title": "7-day Money-Back Gurantee",
-            "text": "Experience our abonnement iptv service risk-free with our 7-day money-back guarantee, ensuring your satisfaction or a hassle-free refund within the first week of your subscription.",
+            "text": "Experience our SEO service risk-free with our 7-day money-back guarantee, ensuring your satisfaction or a hassle-free refund within the first week of your subscription.",
             "backgroundUrl": "/assets/benefits/card-1.svg",
             "iconUrl":"/assets/benefits/icon-1.svg",
             "imageUrl":"/assets/benefits/image-2.webp"
           },
           {
             "id": "1",
-            "title": "4K and 8k Quality",
-            "text": "Enjoy stunning 4K and 8K quality streaming on our website, delivering unparalleled clarity and detail for an immersive viewing experience like never before.",
+            "title": "High quality backlinks",
+            "text": "Boost your website's authority and rankings with our high-quality backlinks from trusted and relevant sources.",
             "backgroundUrl": "/assets/benefits/card-2.svg",
             "iconUrl":"/assets/benefits/icon-2.svg",
             "imageUrl":"/assets/benefits/image-2.webp",
@@ -171,42 +171,14 @@
           },
           {
             "id": "2",
-            "title": "No Buffering",
-            "text": "Enjoy uninterrupted streaming with our no-buffering feature, ensuring smooth playback without frustrating pauses or interruptions, so you can immerse yourself in your favorite content without any hassle",
+            "title": "Website Monitoring",
+            "text": "website monitoring ensures your website is always accessible, performs optimally, and remains secure, ultimately leading to a better user experience and increased business success.",
             "backgroundUrl": "/assets/benefits/card-3.svg",
             "iconUrl":"/assets/benefits/icon-3.svg",
             "imageUrl":"/assets/benefits/image-2.webp"
-          },
-          {
-            "id": "3",
-            "title": "Easy to setup",
-            "text": "Get started effortlessly with our easy setup feature, allowing you to quickly and seamlessly begin enjoying our service without any complicated installation or configuration steps.",
-           "backgroundUrl": "/assets/benefits/card-4.svg",
-           "iconUrl":"/assets/benefits/icon-4.svg",
-            "imageUrl":"/assets/benefits/image-2.webp",
-            "light": true
-          },
-          {
-            "id": "4",
-            "title": "24/7 Support",
-            "text": "Experience peace of mind with our 24/7 support feature, providing round-the-clock assistance to address any questions or concerns you may have, ensuring a smooth and reliable streaming experience.",
-           "backgroundUrl": "/assets/benefits/card-4.svg",
-           "iconUrl":"/assets/benefits/icon-4.svg",
-            "imageUrl":"/assets/benefits/image-2.webp",
-            "light": true
-          },
-          {
-            "id": "5",
-            "title": "Satisfaction Guaranteed",
-            "text": "Your satisfaction is guaranteed. We strive to provide you with the best streaming experience, and if you're not fully satisfied, we'll work to make it right or provide a refund.",
-            "backgroundUrl": "/assets/benefits/card-4.svg",
-            "iconUrl":"/assets/benefits/icon-4.svg",
-            "imageUrl":"/assets/benefits/image-2.webp",
-            "light": true
           }
-      
     ],
-    "pricing-heading":"Buy IPTV  with Digital IPTV",
+    "pricing-heading":"Buy SEO Solutions From Digital Play",
     "pricing-sub-heading":"All in one package",
     "pricing-currency":"€",
     "pricing-list":[
@@ -215,17 +187,16 @@
         "title": "One Month",
         "description": "14.99€/Mo Instead of 15.99€/Mo",
         "price": "14.99",
-        "url":"https://digital-sales.mysellix.io/product/one-vip",
+        "url":"https://wa.me/19295664890?text=Hello%20Digital%20%20play%2C%20Could%20you%20provide%20me%20with%20one%20month%20%subscription%20%3F",
         "productId":"6676fe8674e2a",
         "features": [
-          "All devices are supported",
-          "Netflix, HBO, Hulu, Videoland, Disney and more ",
-          "+24.000 channels",
-          "+160.000 movies and series",
-          "All top sport channels",
-          "Fast and stable server",
-          "M3U MAG ENIGMA2",
-          "Anti freeze technology",
+          "Rank Tracker",
+          "On-demand keyword",
+          "SEO Forecast",
+        "  Keyword Research",
+          "Organic Traffic",
+          "Content Audit",
+         " Access to our SEO database",
           "24/7 support"
         ]
       },
@@ -234,17 +205,16 @@
         "title": "3 Months",
         "description": "9.99€/Mo",
         "price": "29.99",
-        "url":"https://digital-sales.mysellix.io/product/three-vip",
+        "url":"https://wa.me/19295664890?text=Hello%20Digital%20%20play%2C%20Could%20you%20provide%20me%20with%20three%20month%20%subscription%20%3F",
         "productId":"667a9e004f319",
         "features": [
-          "All devices are supported",
-          "Netflix, HBO, Hulu, Videoland, Disney and more  ",
-          "+24.000 channels",
-          "+160.000 movies and series",
-          "All top sport channels",
-          "Fast and stable server",
-          "M3U MAG ENIGMA2",
-          "Anti freeze technology",
+          "Rank Tracker",
+          "On-demand keyword",
+          "SEO Forecast",
+        "  Keyword Research",
+          "Organic Traffic",
+          "Content Audit",
+         " Access to our SEO database",
           "24/7 support"
         ]
       },
@@ -253,17 +223,16 @@
         "title": "6 months",
         "description": "6.66€/Mo",
         "price": "39.99",
-        "url":"https://digital-sales.mysellix.io/product/six-vip",
+        "url":"https://wa.me/19295664890?text=Hello%20Digital%20%20play%2C%20Could%20you%20provide%20me%20with%20six%20month%20%subscription%20%3F",
         "productId":"667a9d5b432bc",
         "features": [
-          "All devices are supported",
-          "Netflix, HBO, Hulu, Videoland, Disney and more ",
-          "+24.000 channels",
-          "+160.000 movies and series",
-          "All top sport channels",
-          "Fast and stable server",
-          "M3U MAG ENIGMA2",
-          "Anti freeze technology",
+          "Rank Tracker",
+          "On-demand keyword",
+          "SEO Forecast",
+        "  Keyword Research",
+          "Organic Traffic",
+          "Content Audit",
+         " Access to our SEO database",
           "24/7 support"
         ]
       },
@@ -273,27 +242,29 @@
         "description": "3.99€/Mo",
         "price": "59.99",
         "productId":"667a9d9f12366",
-        "url":"https://digital-sales.mysellix.io/product/year-vip",
+        "url":"https://wa.me/19295664890?text=Hello%20Digital%20%20play%2C%20Could%20you%20provide%20me%20with%20One%20Year%20%subscription%20%3F",
         "features": [
-          "All devices are supported",
-          "Netflix, HBO, Hulu, Videoland, Disney and more ",
-          "+24.000 channels",
-          "+160.000 movies and series",
-          "All top sport channels",
-          "Fast and stable server",
-          "M3U MAG ENIGMA2",
-          "Anti freeze technology",
+          "Rank Tracker",
+          "On-demand keyword",
+          "SEO Forecast",
+        "  Keyword Research",
+          "Organic Traffic",
+          "Content Audit",
+         " Access to our SEO database",
           "24/7 support"
         ]
       }
     ],
-      "sport-heading": "Ultimate Sports IPTV Service",
-      "sport-description": "Experience unmatched sports entertainment with over 2,000 channels offering diverse sports coverage and extensive channel options.",
+      "sport-heading": "Ultimate website maintenance Service",
+      "sport-description": "Uptime monitoring helps ensure that your website is available when people try to access it.",
       "sport-features": [
-        "Diverse Sports: Enjoy football, basketball, motorsports, tennis, and much more.",
-        "Extensive Channel Selection: Access popular channels like Sky Sports, DAZN, Sport1, and Eurosport.",
-        "Live and On-Demand: Watch live games and catch up on missed matches in our extensive sports library.",
-        "High-Quality Streaming: Experience HD streaming for all your favorite sports events."
+        "Plugin and theme updates",
+        "Content updates",
+        "Backup and disaster recovery",
+        "Performance monitoring and optimization",
+        "Security scanning",
+        "Accessibility testing",
+        "Uptime monitoring"
       ],
     "setup-heading":"how it work ?",
     "setup-steps":[
@@ -301,24 +272,24 @@
         "id": "0",
         "title": "01-Place your order",
         "text": "Place your order by choosing your preferred subscription period : 1, 3, 6 or 12 months.",
-        "date": "May 2023",
+        "date": "May 2024",
         "status": "done",
         "imageUrl":"/assets/roadmap/image-1.webp",
         "colorful": true
       },
       {
         "id": "1",
-        "title": "02-Login credentials",
-        "text": "Get your abonnement iptv login credentials that was delivered via email address.You also get a tutorial guide.",
-        "date": "May 2023",
+        "title": "02-Understand Your Needs",
+        "text": "Understand Your Needs , You also get a tutorial guide.",
+        "date": "May 2024",
         "status": "progress",
         "imageUrl": "/assets/roadmap/image-2.webp"
       },
       {
         "id": "2",
-        "title": "03-Enjoy watching!",
-        "text": "Enjoy all channels,movies and series now!",
-        "date": "May 2023",
+        "title": "03-Delivering!",
+        "text": " Package will be  delivered via email address !",
+        "date": "May 2024",
         "status": "done",
         "imageUrl": "/assets/roadmap/image-3.webp"
       }

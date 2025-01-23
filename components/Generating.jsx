@@ -15,7 +15,7 @@ const Generating = ({ className }) => {
     >
       <Image className="w-5 h-5 mr-4" src={loading} alt="Loading" />
       <span>
-      {'playlist ' + t('trial-btn')} 
+      {t('trial-btn')} 
       </span>
     
     </a>
